@@ -1,7 +1,10 @@
 {
-    "keys": [
-        "CHEN123",
-        "TOOL456",
-        "TEST789"
-    ]
+  "normal_keys": [
+    "chen123",
+    "USERKEY456"
+  ],
+  "vip_keys": [
+    "VIPKEY999",
+    "SUPERUSER777"
+  ]
 }
